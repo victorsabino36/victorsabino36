@@ -17,7 +17,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no 4º semes
 - **Dashboard de Desempenho Financeiro**: Criado no Excel, com foco em KPIs e visualização de dados do meu antigo empreendimento.
 
 ### 📫 Como entrar em contato
-- **LinkedIn**: [[Victor Sabino](https://www.linkedin.com/in/victorsabino36/)](#)
+- **LinkedIn**: [Victor Sabino](https://www.linkedin.com/in/victorsabino36/)
 - **E-mail**: [victorsabino36@gmail.com](mailto:seuemail@example.com)
 
 ---
