@@ -1,4 +1,4 @@
-## Olá, eu sou [Seu Nome]! 👋
+## Olá, eu sou [Victor Sabino]! 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no 4º semestre, com previsão de conclusão em dezembro. Tenho paixão por transformar dados em insights valiosos e utilizo ferramentas de **Business Intelligence (BI)** e **análise de dados** para resolver problemas e tomar decisões baseadas em dados.
 
