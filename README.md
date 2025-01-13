@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá, eu sou [Seu Nome]! 👋
 
-<!--
-**victorsabino36/victorsabino36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no 4º semestre, com previsão de conclusão em dezembro. Tenho paixão por transformar dados em insights valiosos e utilizo ferramentas de **Business Intelligence (BI)** e **análise de dados** para resolver problemas e tomar decisões baseadas em dados.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+- **Linguagens**: Python, SQL
+- **BI e Visualização de Dados**: Power BI, Excel (Dashboards, Tabelas Dinâmicas)
+- **Outras Ferramentas**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente estou aprendendo
+- Análise de Dados Avançada com Python (pandas, matplotlib, seaborn)
+- Modelagem de Dados e SQL
+- Visualização e relatórios interativos no Power BI
+
+### 🔭 Projetos em destaque
+- **Análise de E-commerce no Brasil**: Insights estratégicos baseados em dados reais, usando Python.
+- **Dashboard de Desempenho Financeiro**: Criado no Excel, com foco em KPIs e visualização de dados do meu antigo empreendimento.
+
+### 📫 Como entrar em contato
+- **LinkedIn**: [[Victor Sabino](https://www.linkedin.com/in/victorsabino36/)](#)
+- **E-mail**: [victorsabino36@gmail.com](mailto:seuemail@example.com)
+
+---
+
+⚡ Estou sempre em busca de novas oportunidades para crescer como **Analista de Dados**, **Analista Financeiro** ou em áreas relacionadas a **BI** e **Administração**. Fique à vontade para explorar meus projetos e me enviar uma mensagem!
+
