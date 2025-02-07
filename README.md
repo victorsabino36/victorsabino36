@@ -6,7 +6,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no 4º semes
 🔍 Atualmente, estou aprendendo e aprimorando minhas habilidades em **Análise de Dados** e **Business Intelligence (BI)**.  
 📫 Como me encontrar: 
 - **LinkedIn**: [Victor Sabino](https://www.linkedin.com/in/victorsabino36/)
-- **E-mail**: [victorsabino36@gmail.com](mailto:seuemail@example.com)
+- **E-mail**: [victorsabino36@gmail.com](victorsabino36@gmail.com)
+- **Site**: [Meu Site](https://www.victorsabino.com.br)
+
 
 
 ## 🚀 Minhas Tecnologias
