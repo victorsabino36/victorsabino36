@@ -33,5 +33,5 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no 4º semes
 
 ---
 
-⚡ Estou sempre em busca de novas oportunidades para crescer como **Analista de Dados**, **Analista Financeiro** ou em áreas relacionadas a **BI** e **Administração**. Fique à vontade para explorar meus projetos e me enviar uma mensagem!
+⚡ Estou sempre em busca de novas oportunidades para crescer como **Analista de Dados**, Fique à vontade para explorar meus projetos e me enviar uma mensagem!
 
