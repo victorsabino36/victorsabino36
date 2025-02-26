@@ -1,9 +1,9 @@
 ## Olá, eu sou Victor Sabino! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no 4º semestre, com previsão de conclusão em dezembro. Tenho paixão por transformar dados em insights valiosos e utilizo ferramentas de **Business Intelligence (BI)** e **análise de dados** para resolver problemas e tomar decisões baseadas em dados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou no 4º semestre, Tenho paixão por transformar dados em insights valiosos e utilizo ferramentas de **Business Intelligence (BI)** e **análise de dados** para resolver problemas e tomar decisões baseadas em dados.
 
 
-🔍 Atualmente, estou aprendendo e aprimorando minhas habilidades em **Análise de Dados** e **Business Intelligence (BI)**.  
+🔍 Atualmente, estou aprendendo e aprimorando minhas habilidades em **Análise de Dados**, **Business Intelligence (BI)** e **Automação**.  
 📫 Como me encontrar: 
 - **LinkedIn**: [Victor Sabino](https://www.linkedin.com/in/victorsabino36/)
 - **E-mail**: [victorsabino36@gmail.com](victorsabino36@gmail.com)
