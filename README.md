@@ -1,6 +1,6 @@
 ## Olá, eu sou Victor Sabino! 👋
 
-Sou **Analytics Engineer (Engenheiro de Análise de Dados)** focado em projetar, construir e otimizar o ciclo de vida completo do dado em ambientes multi-cloud (**AWS** e **GCP**).
+Sou **Data Engineer (Analytics)** focado em projetar, construir e otimizar o ciclo de vida completo do dado em ambientes multi-cloud (**AWS** e **GCP**).
 
 Minha especialidade é conectar a infraestrutura de dados (Data Lakes/Warehouses) diretamente às necessidades do negócio. Atuo na construção de fluxos de ETL/ELT, modelagem de dados com **SQL Avançado** (consultando Athena e BigQuery) e entrega de dashboards estratégicos (Power BI).
 
