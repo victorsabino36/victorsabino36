@@ -4,25 +4,16 @@ Eu sou um **Engenheiro de dados** apaixonado por construir arquiteturas de dados
 
 Eu transformo dados brutos em ativos de negócio confiáveis usando `Python`, `SQL Avançado` e o "Modern Data Stack": **`dbt`**, **`Apache Airflow`** e **`Databricks/PySpark`**.
 
-Possuo experiência prática em ambientes multi-cloud (**AWS** e **GCP**) e estou finalizando meu Tecnólogo em **Análise e Desenvolvimento de Sistemas** (Dez/2025) enquanto curso **Bacharelado em Ciência de Dados**.
+Possuo experiência prática em ambientes multi-cloud (**AWS** e **GCP**) Formado em **Análise e Desenvolvimento de Sistemas** cursando **Bacharelado em Ciência de Dados**.
 
 ---
 
-## 🚀 Meus Principais Projetos (Onde eu coloco a mão na massa):
+## 🚀 Meu Projeto principal (Onde eu coloco a mão na massa):
 
-Aqui é onde você pode ver meu trabalho na prática. Meu foco de estudo atual é consolidar tudo no meu "monorepo" de portfólio:
+Aqui é onde você pode ver meu trabalho na prática. Meu foco de estudo atual é consolidar tudo no meus conhecimentos em engenharia de dados:
 
 * **[personal-data-lakehouse](https://github.com/victorsabino36/personal-data-lakehouse)**
-    * Meu "carro-chefe": Um Data Lakehouse E2E que ingere dados de APIs (Ações e Cripto), orquestra com **Apache Airflow**, processa com **PySpark/Databricks** e modela com **dbt** no S3/Athena e BigQuery.
-
-* **[chat-bot-telegram-monitor-sistema-critico](https://github.com/victorsabino36/chat-bot-telegram-monitor-sistema-critico)**
-    * Um projeto de Engenharia de Software (Python) que prova minhas habilidades de construir uma aplicação completa para monitorar um sistema crítico.
-
-* **[automocao_realtorios_python_sql](https://github.com/victorsabino36/automocao_realtorios_python_sql)**
-    * Foco em automação de BI, usando Python para rodar queries no BigQuery e gerar relatórios automaticamente.
-
-* **[queries-in-sql](https://github.com/victorsabino36/queries-in-sql)**
-    * Minha biblioteca pessoal de SQL Avançado, demonstrando o uso de `CTEs`, `Window Functions` e lógica complexa.
+    * Um Data Lakehouse E2E que ingere dados de APIs (Ações e Cripto), orquestra com **Apache Airflow**, processa com **PySpark/Databricks** e modela com **dbt** no S3/Athena e BigQuery
 
 ---
 
