@@ -13,7 +13,7 @@ Possuo experiência prática em ambientes multi-cloud (**AWS** e **GCP**) Formad
 Aqui é onde você pode ver meu trabalho na prática. Meu foco de estudo atual é consolidar tudo no meus conhecimentos em engenharia de dados:
 
 * **[gcp-data-lakehouse](https://github.com/victorsabino36/personal-data-lakehouse)**
-* Um Data Lakehouse E2E que ingere dados de APIs (Ações e Cripto), orquestra com **Apache Airflow**, processa com **PySpark/Databricks** e modela com **dbt** no S3/Athena e BigQuery
+* Um Data Lakehouse E2E que ingere dados de APIs (Ações e Cripto), orquestra com **Apache Airflow**, processa com **PySpark/Databricks** e modela com **dbt** no e GCS/BigQuery
 
 * **[aws-data-lakehouse](https://github.com/victorsabino36/aws-data-lakehouse-e2e)**
 * Um Data Lakehouse E2E que ingere dados de diversas fonte de dados, orquestra com **Apache Airflow**, processa com **PySpark/Python** e modela com **dbt** no S3/Athena e Amazon Redshift.
