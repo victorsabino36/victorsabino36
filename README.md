@@ -1,16 +1,14 @@
 ## Olá, eu sou Victor Sabino! 👋
 
-Eu sou um **Engenheiro de dados** apaixonado por construir arquiteturas de dados modernas e escaláveis. Meu foco principal é na construção de pipelines de dados E2E (ponta-a-ponta).
+Apaixonado por tecnologia com interesse em engenharia de dados software e ciencia de dados, amo construir arquiteturas de dados modernas e escaláveis, gerar insights que apoiam decisões reais e criar soluções que resolvem problemas.
 
-Eu transformo dados brutos em ativos de negócio confiáveis usando `Python`, `SQL Avançado` e o "Modern Data Stack": **`dbt`**, **`Apache Airflow`** e **`Databricks/PySpark`**.
+Hoje trabalho como Analista de Dados, contribuindo em projetos de BI, iniciativas de IA e na evolução do ambiente de dados em AWS. Tenho atuado na organização de dados, criação de modelos e automações que apoiam decisões do negócio. Ao mesmo tempo, venho me especializando em Engenharia de Dados, pipelines em nuvem e práticas de software que fortalecem minha atuação técnica.
 
-Possuo experiência prática em ambientes multi-cloud (**AWS** e **GCP**) Formado em **Análise e Desenvolvimento de Sistemas** cursando **Bacharelado em Ciência de Dados**.
+Atualmente estou me formando em Ciência de Dados (UNIVESP) e já concluí ADS, o que reforça minha base de lógica, dados, engenharia e programação.
 
 ---
 
-## 🚀 Meu Projeto principal (Onde eu coloco a mão na massa):
-
-Aqui é onde você pode ver meu trabalho na prática. Meu foco de estudo atual é consolidar tudo no meus conhecimentos em engenharia de dados:
+## ⚙️ Projetos em engenharia de dados:
 
 * **[gcp-data-lakehouse](https://github.com/victorsabino36/personal-data-lakehouse)**
 * Um Data Lakehouse E2E que ingere dados de APIs (Ações e Cripto), orquestra com **Apache Airflow**, processa com **PySpark/Databricks** e modela com **dbt** no e GCS/BigQuery
@@ -20,32 +18,41 @@ Aqui é onde você pode ver meu trabalho na prática. Meu foco de estudo atual �
 
 ---
 
+## 🧬 Projeto em Ciencia de dados: 
+
+* **[analise-de-dados-olist](https://github.com/victorsabino36/analise_ecommerce)**
+* Análise exploratória e criação de dashboard utilizando Jupyter Notebooks e Power BI para um conjunto de dados de e-commerce (Olist).
+
 ## 🛠️ Meu Stack de Tecnologias
 
-
-### ☁️ Cloud & Data Platforms
+### ☁️ Cloud 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-athena&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-### ⚙️ Engenharia & Modelagem de Dados
-![SQL](https://img.shields.io/badge/SQL%20Avançado-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### ⚙️ Engenharia 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-### 🐍 ETL, Orquestração & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-### 📊 BI & Visualização
+##  🧬 Ciencia de Dados
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-E97627?style=for-the-badge&logo=google-looker&logoColor=white)
+
+### Linguaguem de programacao 
+![SQL](https://img.shields.io/badge/SQL%20Avançado-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 📚 Interessado em aprender
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 ---
 
