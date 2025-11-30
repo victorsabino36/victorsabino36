@@ -10,7 +10,7 @@ Atualmente estou me formando em Ciência de Dados (UNIVESP) e já concluí ADS, 
 
 ## ⚙️ Projetos em engenharia de dados:
 
-* **[gcp-data-lakehouse](https://github.com/victorsabino36/personal-data-lakehouse)**
+ **[gcp-data-lakehouse](https://github.com/victorsabino36/personal-data-lakehouse)**
   Arquitetura de Data Lakehouse ponta-a-ponta que:
 * Ingere dados de múltiplas fontes (APIs e arquivos)
 * Processa datasets com **PySpark** no **Dataproc**
@@ -19,7 +19,7 @@ Atualmente estou me formando em Ciência de Dados (UNIVESP) e já concluí ADS, 
 * Disponibiliza camada analítica otimizada no **BigQuery**
 * Orquestra todo o fluxo com **Apache Airflow**
 
-* **[aws-data-lakehouse](https://github.com/victorsabino36/aws-data-lakehouse)**
+ **[aws-data-lakehouse](https://github.com/victorsabino36/aws-data-lakehouse)**
   Arquitetura de Data Lakehouse serverless que:
 * Ingere dados de múltiplas fontes com **Lambda** e pipelines **Python**
 * Processa dados com **PySpark** no **AWS Glue**
@@ -31,7 +31,7 @@ Atualmente estou me formando em Ciência de Dados (UNIVESP) e já concluí ADS, 
 
 ## 🧬 Projeto em Ciencia de dados: 
 
-* **[analise-de-dados-olist](https://github.com/victorsabino36/analise_ecommerce)**
+ **[analise-de-dados-olist](https://github.com/victorsabino36/analise_ecommerce)**
 * Análise exploratória e criação de dashboard utilizando Jupyter Notebooks e Power BI para um conjunto de dados de e-commerce (Olist).
 
 ## 🛠️ Meu Stack de Tecnologias
