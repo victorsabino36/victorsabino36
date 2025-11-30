@@ -1,6 +1,6 @@
 ## Olá, eu sou Victor Sabino! 👋
 
-Eu sou um **Engenheiro de dados** apaixonado por construir arquiteturas de dados modernas e escaláveis. Meu foco principal é em **DataOps** e na construção de pipelines de dados E2E (ponta-a-ponta).
+Eu sou um **Engenheiro de dados** apaixonado por construir arquiteturas de dados modernas e escaláveis. Meu foco principal é na construção de pipelines de dados E2E (ponta-a-ponta).
 
 Eu transformo dados brutos em ativos de negócio confiáveis usando `Python`, `SQL Avançado` e o "Modern Data Stack": **`dbt`**, **`Apache Airflow`** e **`Databricks/PySpark`**.
 
