@@ -12,20 +12,20 @@ Atualmente estou me formando em Ciência de Dados (UNIVESP) e já concluí ADS, 
 
 * **[gcp-data-lakehouse](https://github.com/victorsabino36/personal-data-lakehouse)**
   Arquitetura de Data Lakehouse ponta-a-ponta que:
-* **Ingere dados de múltiplas fontes (APIs e arquivos)
-* **Processa datasets com **PySpark** no **Dataproc**
-* **Armazena dados em **GCS** no formato **Delta Lake**
-* **Modela e valida dados com dbt executando em **Cloud Run**
-* **Disponibiliza camada analítica otimizada no **BigQuery**
-* **Orquestra todo o fluxo com **Apache Airflow**
+* Ingere dados de múltiplas fontes (APIs e arquivos)
+* Processa datasets com **PySpark** no **Dataproc**
+* Armazena dados em **GCS** no formato **Delta Lake**
+* Modela e valida dados com dbt executando em **Cloud Run**
+* Disponibiliza camada analítica otimizada no **BigQuery**
+* Orquestra todo o fluxo com **Apache Airflow**
 
 * **[aws-data-lakehouse](https://github.com/victorsabino36/aws-data-lakehouse)**
   Arquitetura de Data Lakehouse serverless que:
-* **Ingere dados de múltiplas fontes com **Lambda** e pipelines **Python**
-* **Processa dados com **PySpark** no **AWS Glue**
-* **Armazena no **S3** em formato otimizado **(parquet/delta)**
-* **Modela com **dbt** e disponibiliza camadas analíticas no **Athena/Redshift**
-* **Orquestra todo o fluxo com **Apache Airflow**
+* Ingere dados de múltiplas fontes com **Lambda** e pipelines **Python**
+* Processa dados com **PySpark** no **AWS Glue**
+* Armazena no **S3** em formato otimizado **(parquet/delta)**
+* Modela com **dbt** e disponibiliza camadas analíticas no **Athena/Redshift**
+* Orquestra todo o fluxo com **Apache Airflow**
 
 ---
 
