@@ -11,7 +11,8 @@ Atualmente estou me formando em Ciência de Dados (UNIVESP) e já concluí ADS, 
 ## ⚙️ Projetos em engenharia de dados:
 
  **[gcp-data-lakehouse](https://github.com/victorsabino36/personal-data-lakehouse)**
-  Arquitetura de Data Lakehouse ponta-a-ponta que:
+ 
+#### Arquitetura de Data Lakehouse no GCP que:
 * Ingere dados de múltiplas fontes (APIs e arquivos)
 * Processa datasets com **PySpark** no **Dataproc**
 * Armazena dados em **GCS** no formato **Delta Lake**
@@ -22,13 +23,16 @@ Atualmente estou me formando em Ciência de Dados (UNIVESP) e já concluí ADS, 
 #### Dashboard de Análise de ativos
 Esse é um dos resultados de um ETL completo do projeto
 
+**[Ir para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTRlY2E3Y2QtMTkxNi00N2RiLTg5OGItY2JiZTFkMzcxZDkyIiwidCI6IjFlZTEwZjk4LWRiMDUtNGE4OS1hNzAzLTM4NDIyNDBmZGQ2MiJ9)**
+
 <img src="https://raw.githubusercontent.com/victorsabino36/personal-data-lakehouse/main/dashboards/dashboard_ativos_financeiro.png" width="400">
 
 
 
 
  **[aws-data-lakehouse](https://github.com/victorsabino36/aws-data-lakehouse)**
-  Arquitetura de Data Lakehouse serverless que:
+ 
+#### Arquitetura de Data Lakehouse serverless que:
 * Ingere dados de múltiplas fontes com **Lambda** e pipelines **Python**
 * Processa dados com **PySpark** no **AWS Glue**
 * Armazena no **S3** em formato otimizado **(parquet/delta)**
