@@ -39,8 +39,10 @@ Esse é um dos resultados de um ETL completo do projeto
 
 ## 🧬 Projeto em Ciencia de dados: 
 
- **[analise-de-dados-olist](https://github.com/victorsabino36/analise_ecommerce)**
+**[Notbook Jupyter - Analise exploratoria com Python](https://github.com/victorsabino36/analise_ecommerce/blob/main/Analise_Olist.ipynb)**
 * Análise exploratória e criação de dashboard utilizando Jupyter Notebooks e Power BI para um conjunto de dados de e-commerce (Olist).
+<img src="https://raw.githubusercontent.com/victorsabino36/analise_ecommerce/main/dashboard_ecommerce.png" width="400" alt="Dashboard E-commerce">
+
 
 ## 🛠️ Meu Stack de Tecnologias
 
