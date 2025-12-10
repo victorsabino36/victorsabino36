@@ -45,6 +45,8 @@ Esse é um dos resultados de um ETL completo do projeto
 
 **[Notbook Jupyter - Analise exploratoria com Python](https://github.com/victorsabino36/analise_ecommerce/blob/main/Analise_Olist.ipynb)**
 * Análise exploratória e criação de dashboard utilizando Jupyter Notebooks e Power BI para um conjunto de dados de e-commerce (Olist).
+
+**[Ir para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDhhOTFlODktZTcyOC00Y2M5LWJlZDYtODMyYmRjMGE5OWVmIiwidCI6IjFlZTEwZjk4LWRiMDUtNGE4OS1hNzAzLTM4NDIyNDBmZGQ2MiJ9)**
 <img src="https://raw.githubusercontent.com/victorsabino36/analise_ecommerce/main/dashboard_ecommerce.png" width="400" alt="Dashboard E-commerce">
 
 
