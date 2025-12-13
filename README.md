@@ -10,11 +10,14 @@ Atualmente estou me formando em Ciência de Dados (UNIVESP) e já concluí ADS, 
 
 ## ⚙️ Projetos em engenharia de dados:
 
- **[gcp-data-lakehouse](https://github.com/victorsabino36/personal-data-lakehouse)**
+### **[Data Lakehouse no GCP](https://github.com/victorsabino36/personal-data-lakehouse)**
+
+<img src="https://raw.githubusercontent.com/victorsabino36/personal-data-lakehouse/main/dashboards/arquiterura_data_lake.jpg" width="450">
  
-#### Arquitetura de Data Lakehouse no GCP que:
+ 
+#### Arquitetura:
 * Ingere dados de múltiplas fontes (APIs e arquivos)
-* Processa datasets com **PySpark** no **Dataproc**
+* Processa datasets com **Python** e **PySpark** no **Dataproc**
 * Armazena dados em **GCS** no formato **Delta Lake**
 * Modela e valida dados com dbt executando em **Cloud Run**
 * Disponibiliza camada analítica otimizada no **BigQuery**
@@ -27,15 +30,20 @@ Esse é um dos resultados de um ETL completo do projeto
 
 <img src="https://raw.githubusercontent.com/victorsabino36/personal-data-lakehouse/main/dashboards/dashboard_ativos_financeiro.png" width="400">
 
+##
+
+
+### **[Data Lakehouse na AWS](https://github.com/victorsabino36/aws-data-lakehouse)**
 
 
 
- **[aws-data-lakehouse](https://github.com/victorsabino36/aws-data-lakehouse)**
+<img src="https://raw.githubusercontent.com/victorsabino36/aws-data-lakehouse/main/arquiterura_aws.jpg" width="450">
+
  
 #### Arquitetura de Data Lakehouse serverless que:
-* Ingere dados de múltiplas fontes com **Lambda** e pipelines **Python**
-* Processa dados com **PySpark** no **AWS Glue**
+* Ingere dados de múltiplas fontes com **Python** e **PySpark** no **Lambda**
 * Armazena no **S3** em formato otimizado **(parquet/delta)**
+* Cataloga com **AWS Glue** 
 * Modela com **dbt** e disponibiliza camadas analíticas no **Athena/Redshift**
 * Orquestra todo o fluxo com **Apache Airflow**
 
@@ -50,6 +58,13 @@ Esse é um dos resultados de um ETL completo do projeto
 
 <img src="https://raw.githubusercontent.com/victorsabino36/analise_ecommerce/main/dashboard_ecommerce.png" width="400" alt="Dashboard E-commerce">
 
+
+**Dashboard Alta Gestão de vendas**
+* Dashboard que traz insights para otimizar campanhas de marketing, encontrar padroes e oportunidades e companhar KPIs
+
+**[Ir para Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJjZWI3MTEtYjcyOS00NDM1LWEwZWMtOWQ1YjJjMDBmYTQ3IiwidCI6IjFlZTEwZjk4LWRiMDUtNGE4OS1hNzAzLTM4NDIyNDBmZGQ2MiJ9)**
+
+<img src="https://raw.githubusercontent.com/victorsabino36/analise_ecommerce/main/Dashboard%20Vendas.png" width="400" alt="Dashboard E-commerce">
 
 ## 🛠️ Meu Stack de Tecnologias
 
@@ -72,14 +87,8 @@ Esse é um dos resultados de um ETL completo do projeto
 ### Linguaguem de programacao 
 ![SQL](https://img.shields.io/badge/SQL%20Avançado-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 📚 Interessado em aprender
-
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 
 ---
