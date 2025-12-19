@@ -32,10 +32,30 @@ Esse é um dos resultados de um ETL completo do projeto
 
 ##
 
+### **[Data Lakehouse no Databricks](https://github.com/victorsabino36/databricks-data-lakehouse)**
+
+<img src="https://raw.githubusercontent.com/victorsabino36/databricks-data-lakehouse/main/docs/lake-databricks.drawio.png" width="450">
+
+#### Visão Geral:
+
+Este projeto implementa uma arquitetura de Data Lakehouse completa utilizando a plataforma Databricks. O objetivo é transformar dados brutos valiosas para negócio, seguindo a Arquitetura Medalhão para garantir a qualidade, linhagem e governança dos dados através do formato Delta Lake.
+
+* Processamento: PySpark.
+* Transformação SQL: Databricks SQL.
+* Armazenamento: Delta Lake (Transações ACID, Schema Enforcement e Time Travel).
+* Versionamento: Databricks Git Folders (Repos).
+
+#### Dashboard de pedidos de um E-commerce
+Esse é um dos resultados de um ETL completo do projeto
+
+**[Ir para o Dashboard](https://lookerstudio.google.com/reporting/40b3bdf1-d7aa-4275-a4fc-ecb88099cd63/page/cWBjF)**
+
+
+<img src="https://raw.githubusercontent.com/victorsabino36/databricks-data-lakehouse/main/docs/dashboard_looker.png" width="450">
+
+##
 
 ### **[Data Lakehouse na AWS](https://github.com/victorsabino36/aws-data-lakehouse)**
-
-
 
 <img src="https://raw.githubusercontent.com/victorsabino36/aws-data-lakehouse/main/arquiterura_aws.jpg" width="450">
 
