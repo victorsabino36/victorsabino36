@@ -32,21 +32,33 @@ Esse é um dos resultados de um ETL completo do projeto
 
 ##
 
-### **[Data Lakehouse no Databricks](https://github.com/victorsabino36/databricks-data-lakehouse)**
+### **[Data Lakehouse no Azure Databricks](https://github.com/victorsabino36/databricks-data-lakehouse)**
 
-<img src="https://raw.githubusercontent.com/victorsabino36/databricks-data-lakehouse/main/docs/lake-databricks.drawio.png" width="450">
+<img src="https://raw.githubusercontent.com/victorsabino36/databricks-data-lakehouse/main/docs/arqui_dio.png" width="450">
 
 #### Visão Geral:
 
-Este projeto implementa uma arquitetura de Data Lakehouse completa utilizando a plataforma Databricks. O objetivo é transformar dados brutos valiosas para negócio, seguindo a Arquitetura Medalhão para garantir a qualidade, linhagem e governança dos dados através do formato Delta Lake.
+🤯 O Problema:
+Em muitas empresas, um banco de dados  é usado tanto para a operação quanto para relatórios. Isso gera um conflito clássico: quando o time de análise roda uma query pesada, o sistema fica lento. Além do risco de travamento, o acesso direto ao banco de produção é um gargalo de segurança.
+
+💡 A Solução:
+Implementei uma arquitetura de dados moderna na Azure para separar o ambiente de operação do ambiente de análise:
+
+1 - Simulação do Ambiente: Para validar o projeto, configurei um banco de dados SQL Server On-Premises em um servidor local, simulando o banco de produção de uma empresa.
+
+2 - Extração Segura: Configurei o Azure Data Factory para extrair os dados do SQL Server local para o Data Lake Gen2. Isso garante que a análise não brigue por recursos com o sistema principal.
+
+3 - Processamento Escalável: Utilizei o Azure Databricks (PySpark, SQL) para limpar e transformar esses dados brutos em tabelas prontas para consumo. Com isso, o processamento pesado acontece na nuvem, e não no servidor da empresa.
+
+4 -Entrega e Segurança: Centralizei as credenciais no Azure Key Vault e disponibilizei os dados finais no Power BI para dashboards rápidos e seguros.
 
 * Processamento: PySpark.
 * Transformação SQL: Databricks SQL.
-* Armazenamento: Delta Lake (Transações ACID, Schema Enforcement e Time Travel).
+* Armazenamento: Parquet e Delta Lake.
 * Versionamento: Databricks Git Folders (Repos).
 
 #### Dashboard de pedidos de um E-commerce
-Esse é um dos resultados de um ETL completo do projeto
+Esse é um dos resultados de um ETL completo desse projeto
 
 **[Ir para o Dashboard](https://lookerstudio.google.com/reporting/40b3bdf1-d7aa-4275-a4fc-ecb88099cd63/page/cWBjF)**
 
